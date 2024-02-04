@@ -14,20 +14,29 @@ O decodificador funciona para criptografar um texto substituindo as vogais por p
 - HTML
 - CSS
 - JAVASCRIPT
+  
+  <br><br>
 
 ## Resultado do projeto:
 
 
 https://github.com/sant1ana/decodificador-de-texto/assets/93404790/a79aca37-362d-416c-869c-7b70aee79674
 
+<br><br>
+
 
 ## :link: Acesso ao projeto
 
 Você pode acessar o projeto final clicando aqui: https://sant1ana.github.io/decodificador-de-texto/
 
+<br><br>
 
 
-![cms_files_10224_1671211139Prancheta_3](https://github.com/sant1ana/decodificador-de-texto/assets/93404790/ccb4ef16-699d-4744-ba09-8b37386e3015)
+<p align="center">
+  <img src="https://github.com/sant1ana/decodificador-de-texto/assets/93404790/ccb4ef16-699d-4744-ba09-8b37386e3015 alt="">
+</p>
 
 
-#challengeonedecodificador5
+<h3 align="center">
+    <a>#challengeonedecodificador5</a>
+</h3><br><br>

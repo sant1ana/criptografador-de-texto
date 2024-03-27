@@ -7,7 +7,7 @@
 ## Sobre o Projeto:
 
 Projeto desenvolvido atravez do desafio Challenge da Alura em parceria com a One oracle next education na formação de Iniciante em Programação, com o objetivo de aprender o básico da lógica de programação em JavaScript.<br><br>
-O decodificador funciona para criptografar um texto substituindo as vogais por palavras(as letras: a, e, i, o e u são convertidas na ordem por: ai, enter, imes, ober e ufat) e além disso, também é possível descriptografar o mesmo texto. O codificador possui um botão que copia o texto criptografado/descriptografado para a área de transferência.<br><br>
+O decodificador opera ao criptografar um texto por meio da substituição das vogais (a, e, i, o, u) por palavras correspondentes: (ai, enter, imes, ober e ufat) e além disso, também é possível descriptografar o mesmo texto. O codificador possui um botão que copia o texto criptografado/descriptografado para a área de transferência.<br><br>
 
 
 ## Tecnologias utilizadas: 

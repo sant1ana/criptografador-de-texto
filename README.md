@@ -7,7 +7,13 @@
 ## Sobre o Projeto:
 
 Projeto desenvolvido atravez do desafio Challenge da Alura em parceria com a One oracle next education na formação de Iniciante em Programação, com o objetivo de aprender o básico da lógica de programação em JavaScript.<br><br>
-O decodificador opera ao criptografar um texto por meio da substituição das vogais (a, e, i, o, u) por palavras correspondentes: (ai, enter, imes, ober e ufat) e além disso, também é possível descriptografar o mesmo texto. O codificador possui um botão que copia o texto criptografado/descriptografado para a área de transferência.<br><br>
+O desafio consistia em criar um programa capaz de criptografar um texto substituindo as vogais (a, e, i, o, u) por palavras específicas (ai, enter, imes, ober, e ufat). e além disso, também é possível descriptografar o mesmo texto. O codificador possui um botão que copia o texto criptografado/descriptografado para a área de transferência.<br><br>
+Minhas atividades incluíram:
+- Estudo e compreensão dos requisitos do desafio e das funcionalidades necessárias para o decodificador de texto.
+- Implementação de algoritmos em JavaScript para realizar a substituição das vogais do texto de entrada pelas palavras específicas, seguindo as diretrizes fornecidas no desafio.
+- Desenvolvimento de uma interface de usuário simples utilizando HTML e CSS para permitir a entrada de texto e a exibição do resultado da criptografia.
+
+Participar desse desafio proporcionou uma oportunidade única para aplicar os conhecimentos adquiridos durante o curso em um projeto prático e desafiador. O projeto foi concluído com sucesso dentro do prazo estipulado, demonstrando minha capacidade de resolver problemas e desenvolver soluções criativas utilizando tecnologias web.
 
 
 ## Tecnologias utilizadas: 

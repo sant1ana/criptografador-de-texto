@@ -33,8 +33,7 @@ https://github.com/sant1ana/decodificador-de-texto/assets/93404790/a79aca37-362d
 
 ## :link: Acesso ao projeto
 
-Você pode acessar o projeto final clicando aqui: https://sant1ana.github.io/decodificador-de-texto/
-
+Você pode acessar o projeto final clicando aqui: https://glittery-maamoul-25a98d.netlify.app
 <br><br>
 
 

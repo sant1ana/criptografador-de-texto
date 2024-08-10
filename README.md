@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a>Decodificador de Texto </a>
+    <a>Criptografador de Texto </a>
 </h1><br><br>
 
 
